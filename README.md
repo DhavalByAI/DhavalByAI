@@ -22,17 +22,20 @@
 ### 🔗 My Links  
 | Type | Link |
 |------|------|
-| 🧩 Portfolio | 👉 [https://yourportfolio.com](https://dhaval.framer.ai/) |
-| 🚀 Work Showcase | 👉 [https://yourworkexamples.com](http://tinyurl.com/dhaval-work) |
-
-> *(Share your real URLs & I’ll update these nicely!)*
+| 🧩 Portfolio | 👉 [https://dhaval.framer.ai/](https://dhaval.framer.ai/) |
+| 🚀 Work Showcase | 👉 [http://tinyurl.com/dhaval-work](http://tinyurl.com/dhaval-work) |
 
 ---
 
 ### 🧠 Tech Skills
 
 #### ✨ Mobile & Web
-Flutter • Dart • Firebase • GetX • Bloc • Riverpod
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
+![Dart](https://img.shields.io/badge/Dart-Strong-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-orange)
+![Bloc](https://img.shields.io/badge/Bloc-Architecture-purple)
+![Riverpod](https://img.shields.io/badge/Riverpod-StateManagement-green)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-lightgrey)
 
 #### ⚙ Backend / Architecture
 REST APIs • Clean Architecture • MVVM • Microservices • GraphQL
@@ -50,17 +53,6 @@ Git • GitHub • Jira • Figma • Postman • AWS • CI/CD
 ✔ “Fix before ship” mindset  
 
 > I don’t just build features — I build **value**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/DhavalByAI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhavalByAI&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhavalByAI&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
 
 ---
 
