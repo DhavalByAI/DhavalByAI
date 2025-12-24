@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Professional **Flutter Developer (6+ Years Experience)**
+- 👨‍💻 Professional **Mobile Application Developer (6+ Years Experience)**
 - 🤖 Exploring **AI + Automation** to build next-gen apps
 - 🌱 Currently learning **ReactJS**
 - 🧠 Strong interest in **logic building & product value creation**
